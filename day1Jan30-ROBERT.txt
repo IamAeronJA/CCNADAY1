@@ -1,3 +1,5 @@
+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
+
 !@@@LeafSwitchONLY
 config t
    hostname COREbaba_
